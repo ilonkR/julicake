@@ -1,0 +1,230 @@
+
+body{
+    font-family: "Roboto" sans-serif;
+    color: black;
+    padding: auto;
+    margin: auto;
+    background-color: #FFE8E3;
+    max-width: fit-content;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+h1,
+h2,
+h3,
+p{
+    margin: 0;
+}
+img{
+    display: block;
+}
+.container{
+    width: 1158px;
+    padding: 0 20 0 20;
+    margin: 30px 200px 30px 150px;
+}
+.header-container{
+ display: flex;
+ align-items: center;
+}
+.header-navigation{
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+}
+    
+
+.header-title{
+    color: black;
+    font-family: Roboto;
+    font-size: 23px;
+    line-height: 24px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    font-style: normal;
+    text-decoration: none;
+}
+.header-link{
+    color: black;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    font-style: normal;
+    font-weight: 500;
+    display: flex;
+    gap: 40px;
+}
+
+/* BENTO */
+.bento-title{
+    font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.bento-paragraph-item{
+    font-family: "Baskervville SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.bento-paragraph{
+    font-family: "Baskervville SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.bento-tastes-title{
+    font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.bento-container{
+    padding: 15px 15px 15px 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.bento-tastes-list-item
+.bento-tastes-paragraph{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.color{
+    color: #F4836B;
+}
+
+/* BENTOXL */
+.bentoxl-container{
+    padding: 15px 15px 15px 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.bentoxl-title{
+    font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.bentox-paragraph{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.bentoxl-tastes{
+    font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.bentoxl-tastes-list
+.bentoxl-list-item
+.bentoxl-list-paragraph{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* TORTYARTYSTYCZNE */
+.cakes-container{
+    padding: 15px 15px 15px 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.cakes-title{
+    font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.cakes-text{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.cakes-tastes{
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+.cakes-list{
+}
+.cakes-list-item{x
+}
+.cakes-list-taste-title{
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.cakes-list-paragraph{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #F4836B;
+    padding-right: 15px;
+    max-width: 50%;
+
+}
+.cakes-img{
+}
+.cakes-img-hazelnut
+.cakes-img-mango
+.cakes-img-karmelowa
+.cakes-img-kokos
+.cakes-img-ciasto
+.cakes-title-item{
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+/* MILKGIRL */
+
+.milkgirl-title{
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.milkgirl-paragraph{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #F4836B;
+}
+.napoleon-list-paragraph{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* cupcakes */
+
+.cupcakes-title{
+    font-family: "Playwrite CU", cursive;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+.cupcakes-list{
+
+}
+
+.cupcakes-item{
+
+}
+.cupcakes-paragraph{
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 5px;
+}
