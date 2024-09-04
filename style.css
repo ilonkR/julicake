@@ -1,5 +1,5 @@
 
-@media screen (max-width: 600px;) {
+@media screen (max-width: 400px;) {
     
 }
 body{
@@ -27,7 +27,7 @@ img{
 }
 .container{
     width: 1158px;
-    padding: 0 20 0 20;
+    padding: 20px 20px 20px 20px;
     margin: 30px 200px 30px 150px;
 }
 .header-container{
@@ -65,8 +65,13 @@ img{
 }
 
 /* BENTO */
+.bento-container{
+    padding: 15px 15px 15px 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 .bento-title{
-    font-family: "Playwrite CU", cursive;
+    font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
@@ -82,17 +87,13 @@ img{
   font-style: normal;
 }
 .bento-tastes-title{
-    font-family: "Playwrite CU", cursive;
+    font-family: "Oswald", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
 }
 
-.bento-container{
-    padding: 15px 15px 15px 15px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
+
 .bento-tastes-list-item
 .bento-tastes-paragraph{
     font-family: "Baskervville SC", serif;
@@ -110,10 +111,10 @@ img{
     margin-bottom: 15px;
 }
 .bentoxl-title{
-    font-family: "Playwrite CU", cursive;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
 
 .bentox-paragraph{
@@ -123,10 +124,9 @@ img{
 }
 
 .bentoxl-tastes{
-    font-family: "Playwrite CU", cursive;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
+    font-family: "Baskervville SC", serif;
+    font-weight: 500;
+    font-style: inherit;
 }
 .bentoxl-tastes-list
 .bentoxl-list-item
@@ -143,10 +143,10 @@ img{
     margin-bottom: 15px;
 }
 .cakes-title{
-    font-family: "Playwrite CU", cursive;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
 .cakes-text{
     font-family: "Baskervville SC", serif;
@@ -154,20 +154,19 @@ img{
     font-style: normal;
 }
 .cakes-tastes{
-    font-family: "Playwrite CU", cursive;
-    font-optical-sizing: auto;
+    font-family: "Baskervville SC", serif;
     font-weight: 500;
-    font-style: normal;
+    font-style: inherit;
 }
 .cakes-list{
 }
-.cakes-list-item{x
+.cakes-list-item{
 }
 .cakes-list-taste-title{
-    font-family: "Playwrite CU", cursive;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 .cakes-list-paragraph{
     font-family: "Baskervville SC", serif;
@@ -186,17 +185,16 @@ img{
 .cakes-img-kokos
 .cakes-img-ciasto
 .cakes-title-item{
-    font-family: "Playwrite CU", cursive;
-    font-optical-sizing: auto;
-    font-weight: 300;
-    font-style: normal;
+    font-family: "Baskervville SC", serif;
+    font-weight: 500;
+    font-style: inherit;
 }
 /* MILKGIRL */
 
 .milkgirl-title{
-    font-family: "Playwrite CU", cursive;
+    font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 300;
+    font-weight: 500;
     font-style: normal;
 }
 .milkgirl-paragraph{
@@ -214,9 +212,9 @@ img{
 /* cupcakes */
 
 .cupcakes-title{
-    font-family: "Playwrite CU", cursive;
+    font-family: "Oswald", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 300;
+    font-weight: 500;
     font-style: normal;
 }
 .cupcakes-list{
